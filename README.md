@@ -9,7 +9,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/bahadirkaya94/) 
 
 #### Technologies:
-![image](https://user-images.githubusercontent.com/108271414/199868906-7fb01eb4-9180-4843-a012-bd7a75699c95.png)
+![image](https://user-images.githubusercontent.com/108271414/199868958-8f3897ff-1be0-4605-8e99-6eddf99e1b51.png)
+
 
 
 
