@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @bahadirkaya94
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+# 👋 Hi, I’m Bahadır
+- 👀 I’m interested in Testing Technology
+- 🌱 I’m currently learning Mobile Testing
 - 📫 How to reach me bahadirkaya94@gmail.com
 
 <!---
